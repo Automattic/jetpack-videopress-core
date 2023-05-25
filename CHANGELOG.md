@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added VideoPress Core Skeleton.
+
+### Fixed
+- Correct typo in README.md.
