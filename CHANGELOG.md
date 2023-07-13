@@ -12,3 +12,6 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added VideoPress Core Skeleton.
 - Add TypeScript Build
+
+### Changed
+- Updated package dependencies.
