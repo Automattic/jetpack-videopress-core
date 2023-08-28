@@ -15,3 +15,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+
+### Removed
+- Remove unnecessary files from mirror repo and published package.
