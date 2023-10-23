@@ -18,3 +18,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - Remove unnecessary files from mirror repo and published package.
+
+### Fixed
+- Remove "private" flag from package.json so package can be published.
