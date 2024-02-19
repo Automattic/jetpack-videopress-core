@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Add TypeScript Build
 
 ### Changed
+- Update build configuration to better match supported target environments.
 - Updated package dependencies.
 
 ### Removed
