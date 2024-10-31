@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added VideoPress Core Skeleton.
 - Add TypeScript Build
+- Enable test coverage.
 
 ### Changed
 - Update build configuration to better match supported target environments.
